@@ -1,6 +1,8 @@
 # Praktikum3
 Nama    : Febriyani Nurhida
+
 NIM     : 312210222
+
 Kelas   : TI.22.A.2
 
 
@@ -28,7 +30,7 @@ berikut ditampilkan flowchart untuk menghitung luas dan keliling lingkaran.
 
 Program diatas saya mengimport modul math yang sudah disediakan oleh python. Fungsinya supaya saya dapat menyertakan nilai phi yang sudah tersedia dalam modul tersebut dengan perintah math.pi jika kita coba mencetak fungsi tersebut maka akan menghasilkan nilai 3.14.
 
-![gambar4](ss4/ss4.png)
+![gambar4](ss3/ss4.png)
 
 
 Selanjutnya kita memerlukan nilai jari-jari (r) yang nantinya akan di masukan oleh pengguna pada layar console. Kita menggunakan fungsi input() yang nilainya di konversi ke tipe data float (bilangan riil). Fungsi input() akan menganggap semua nilai inputan bertipe string, sehingga kita perlu melakukan konversi ke tipe yang diinginkan.
