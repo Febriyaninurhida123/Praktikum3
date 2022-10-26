@@ -19,12 +19,12 @@ Phi merupakan nilai konstanta di matematika sementara jari-jari merupakan jarak 
 ## Flowchart Menghitung Luas & Keliling Lingkaran
 berikut ditampilkan flowchart untuk menghitung luas dan keliling lingkaran.
 
-![gambar1](ss3/ss9.png)
+![gambar1](ss3/ss1.png)
 
 
 ## Program Python Menghitung Luas & Keliling Lingkaran
 
-![gambar2](ss3/ss5.png)
+![gambar2](ss3/ss9.png)
 
 Program diatas saya mengimport modul math yang sudah disediakan oleh python. Fungsinya supaya saya dapat menyertakan nilai phi yang sudah tersedia dalam modul tersebut dengan perintah math.pi jika kita coba mencetak fungsi tersebut maka akan menghasilkan nilai 3.14.
 
